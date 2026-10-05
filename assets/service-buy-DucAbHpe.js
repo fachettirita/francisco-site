@@ -1,0 +1,1 @@
+var e=`/francisco-site/assets/service-buy-CUFOxxvG.jpg`;export{e as t};
