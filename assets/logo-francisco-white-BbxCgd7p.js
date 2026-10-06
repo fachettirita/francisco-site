@@ -1,0 +1,1 @@
+var e=`/assets/logo-francisco-white-CwrrPB3R.png`;export{e as t};
